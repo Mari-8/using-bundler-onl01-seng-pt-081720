@@ -1,4 +1,4 @@
-source "https://rubygems.org", "https://github.com/awesome-print/awesome_print"
+source "https://rubygems.org"
 gem "rspec"
 
 
